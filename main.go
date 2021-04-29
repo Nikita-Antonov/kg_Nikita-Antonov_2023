@@ -17,7 +17,7 @@ func main() {
 			serchInt := ((inputValue[x]) - 48)
 			fmt.Print(storedStr[serchInt])
 		}
-		fmt.Print(" ")
+		fmt.Print(",")
 	}
 
 }
